@@ -1,0 +1,4 @@
+interface:
+  display_name: "海外爆款视频拆解与复刻"
+  short_description: "拆解海外短视频机制并生成 B2B 原创脚本与制作包"
+  default_prompt: "Use $overseas-viral-video-teardown to deeply analyze my uploaded overseas short video, then ask for the minimum business context needed for an original B2B version."
